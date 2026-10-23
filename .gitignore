@@ -1,0 +1,5 @@
+bin/
+*.out
+*.debug.log
+dist/
+*.zip
